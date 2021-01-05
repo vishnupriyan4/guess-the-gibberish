@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a simple react project with a combination of p5.js for replicating the "Guess the gibberish" filter in web-app.
+
 ## Available Scripts
 
 In the project directory, you can run:
