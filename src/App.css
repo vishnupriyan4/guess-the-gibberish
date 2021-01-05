@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  position: relative;
+  height: 480px;
+  /* width: 640px; */
+}
+
+.canvas, .beginButton{
+  position: absolute;
+}
+
+@media screen and (max-width: 600px) {
+  
+}
+
+.beginButton {
+  cursor: pointer;
+  /* width: 640px; */
+  width: 200px;
+  text-align: center;
+  height: 30px;
+  bottom: 2%;
+  left: 20%;
+  border-radius: 10px;
+  /* background-color: #61dafb; */
+  background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+}
